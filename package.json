@@ -1,0 +1,26 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shijiandatou/koa2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shijiandatou/koa2/issues"
+  },
+  "homepage": "https://github.com/shijiandatou/koa2#readme",
+  "devDependencies": {
+    "koa": "^2.5.1",
+    "koa-views": "^6.1.4"
+  },
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  }
+}
